@@ -1,5 +1,7 @@
 # DIY Landing Page
-
+## Sources
+https://codepen.io/kkanyingi/pen/vLowwB?editors=1100
+https://www.fontshare.com/fonts/tabular
 
 ## What Is This? 
 My DIY Landing Page with these features. 
