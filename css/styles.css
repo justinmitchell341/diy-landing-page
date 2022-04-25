@@ -2,7 +2,7 @@
 @import url('tabular.css');
 /* My Styles */
 .me{
-border-radius: 100px; 
+border-radius: 50px; 
 z-index: 3;
 position: relative;
 left: 10rem;
